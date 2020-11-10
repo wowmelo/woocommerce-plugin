@@ -1,0 +1,22 @@
+.wowmelo-payment-options {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.calculation-table th {
+    font-weight: bold;
+    text-transform: initial;
+}
+
+.calculation-table strong {
+    font-weight: bold;
+    color: #000;
+}
+
+input[name="package_id"] {
+    margin-bottom: 0;
+}
+
+.calculation-table {
+    margin-top: 10px;
+}
